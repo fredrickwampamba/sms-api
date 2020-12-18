@@ -12,10 +12,10 @@
 	    $response = $parse_url[0];
 	    return $response;
 	}
-	$username = "fredowampz";
-	$password = "6zbsK8QDY7JFQJe";
-	$sender = "Fredrick";
-	$number = "+256702718025";
+	$username = "your_username";
+	$password = "your_password";
+	$sender = "Sender_name";
+	$number = "the_number_you_want_to_send_to";
 	$message = "My First Message through Egosms";
 	echo SendSMS($username, $password, $sender, $number, $message);
 ?>
