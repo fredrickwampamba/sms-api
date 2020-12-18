@@ -4,16 +4,16 @@
     function send() {
         var person = {
               "user": {
-                "username": "fredowampz",
-                "password": "GNLvfz7wWdAuBxx"
+                "username": "your_username",
+                "password": "your_password"
               },
               "messages": [
                 {
                   "numbers": [
-                    "256794313249"
+                    "2567000000"
                   ],
-                  "senderid": "FredrickW",
-                  "messageBody": "Sample for the Africell thing"
+                  "senderid": "Anything to identify",
+                  "messageBody": "Sample text body here"
                 }
               ]
             };
